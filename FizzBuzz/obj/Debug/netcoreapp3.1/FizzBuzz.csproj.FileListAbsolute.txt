@@ -1,0 +1,12 @@
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
